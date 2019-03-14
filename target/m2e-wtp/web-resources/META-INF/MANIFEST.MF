@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo21-spring-swagger-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Kurosh
+Implementation-Vendor-Id: demo21-spring-swagger-api
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/demo21-spring-swagger-api
+Created-By: Maven Integration for Eclipse
+
